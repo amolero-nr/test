@@ -14,3 +14,4 @@
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
+- [F#](https://fsharp.org/)
